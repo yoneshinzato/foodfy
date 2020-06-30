@@ -198,7 +198,7 @@ nav a.turned {
   position: relative;
   background-color: #fff;
   width: 60%;
-  height: 60%;
+  height: 65%;
   border-radius: 16px;
   -webkit-border-radius: 16px;
   -moz-border-radius: 16px;
@@ -242,7 +242,7 @@ nav a.turned {
   font-size: 18px;
   color: #777;
   line-height: 21px;
-  padding-top: 10px;
+  /* padding-top: 10px; */
 }
 
 .modal-content a {
@@ -250,5 +250,6 @@ nav a.turned {
   font-size: 16px;
   line-height: 19px;
   color: #999;
-  top: 30px;
+  top: 10px;
+  padding-top: 20px;
 }

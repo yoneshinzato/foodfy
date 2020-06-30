@@ -101,7 +101,7 @@ header nav a:hover {
 
 .recipe {
   margin-bottom: 20px;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .recipe-img {
